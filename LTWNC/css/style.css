@@ -1,0 +1,92 @@
+body {
+    width: 100%;
+    margin: 0 auto;
+    }
+    #img {
+    width: 100%;
+    }
+    
+    .AnhBLog{
+        width: 80%;
+    }
+    .btnEdit {
+        background-color: green;
+        border-radius: 5px;
+        width: 100%;
+        height: 30px;
+    }
+    .btnEdit a{
+        color: honeydew;
+   }
+    .btnDel a{
+        color: rgb(8, 8, 8);
+        width: 100%;
+
+    }
+    .btnDel {
+        background-color: yellow;
+        border-radius: 5px;
+        width: 100%;
+        height: 30px;
+    }
+    .btnthem{
+        background-color: rgb(110, 18, 6);
+        border-radius: 10px;
+        width: 150px;
+        height: 40px;
+        color: honeydew;
+        font-size: 20px;
+    }
+    .id_blog{
+        width: 800px;
+        border-radius: 25px;
+        height: 40px;
+        font-size: 20px;
+        margin-bottom: 25px;
+        padding-left: 15px;
+    }
+    .lableEdit{
+        font-size: 24px;
+       
+    }
+    .ngay_blog{
+        width: 300px;
+        border-radius: 15px;
+        height: 40px;
+        font-size: 20px;
+        padding-left: 15px;
+    }
+    .content{
+        font-size: 20px;
+        padding-left: 15px;
+        margin-bottom: 25px;
+    }
+    .select{          
+        width: 550px;
+        height: 40px;
+        color: rgb(18, 136, 18);
+        font-size: 20px;
+    }
+    .table-bordered {
+        width: 10%;
+        height: 500px;
+    }
+    .table{
+        width: 100%;
+    }
+    .thead-dark{
+        text-align: center;
+
+    }
+    .page{
+        color: darkslategrey;
+        list-style-type: circle;
+    }
+    #menu li{
+        color: darkslategrey;
+        display: inline-block;
+
+    }
+   ul>li.disable{
+    display: none;
+}
